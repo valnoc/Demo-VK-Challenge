@@ -1,0 +1,1 @@
+https://github.com/VKCOM/vk-ios-sdk
